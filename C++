@@ -1,0 +1,6 @@
+#iostream
+int main()
+using namespace std;
+{
+cout<<"Hello world, 'tis I, the great and powerful DrFumbLeZ1. Feel my wrath!";
+}
